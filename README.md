@@ -1,4 +1,11 @@
-### Hi there 👋
+Обновляем терминал:
+apt-получить обновление
+apt-get установить git python
+если спросит Продолжить? [Да/нет] отвечаем Да и продолжаем
+pip install pyrogram
+
+Запуск:
+python teleghoul/index.py
 
 <!--
 **hopebetrayed/hopebetrayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
