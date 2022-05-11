@@ -6,5 +6,5 @@ pip install pyrogram
 git clone https://github.com/hopebetrayed/hopebetrayed.git
 
 Запуск:
-python teleghoul/index.py
+python index.py
 
