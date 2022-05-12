@@ -4,7 +4,7 @@ command_prefixes = ['.','!','/']
 ghoul_table_command = 'ghoul-c'
 
 end_message = 'by https://t.me/hope_betrayed' # Сообщение после конца цикла, если не нужно - оставляем пустым
-messages_per_second = 7 
+messages_per_second = 3  
 sleep_time_ghoul = 0.1 
 
 # Линии ниже не трогать, сломается!
